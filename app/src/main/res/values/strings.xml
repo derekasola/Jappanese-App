@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jappanese App</string>
+    <string name="initializer">1. A</string>
+    <string name="Hiragana">Hiragana</string>
+    <string name="Katakana">Katakana</string>
+    <string name="Kanji">Kanji</string>
+    <string name="study">Study</string>
+    <string name="quiz">Quiz</string>
+</resources>

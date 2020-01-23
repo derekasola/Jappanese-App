@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <integer-array name="hiraganaImages">
+        <item>@drawable/a1</item>
+        <item>@drawable/a2</item>
+        <item>@drawable/a3</item>
+        <item>@drawable/a4</item>
+        <item>@drawable/a5</item>
+        <item>@drawable/a6</item>
+        <item>@drawable/a7</item>
+        <item>@drawable/a8</item>
+        <item>@drawable/a9</item>
+        <item>@drawable/a10</item>
+        <item>@drawable/a11</item>
+        <item>@drawable/a12</item>
+        <item>@drawable/a13</item>
+        <item>@drawable/a14</item>
+        <item>@drawable/a15</item>
+        <item>@drawable/a16</item>
+        <item>@drawable/a17</item>
+        <item>@drawable/a18</item>
+        <item>@drawable/a19</item>
+        <item>@drawable/a20</item>
+        <item>@drawable/a21</item>
+        <item>@drawable/a22</item>
+        <item>@drawable/a23</item>
+        <item>@drawable/a24</item>
+        <item>@drawable/a25</item>
+        <item>@drawable/a26</item>
+        <item>@drawable/a27</item>
+        <item>@drawable/a28</item>
+        <item>@drawable/a29</item>
+        <item>@drawable/a30</item>
+        <item>@drawable/a31</item>
+        <item>@drawable/a32</item>
+        <item>@drawable/a33</item>
+        <item>@drawable/a34</item>
+        <item>@drawable/a35</item>
+        <item>@drawable/a36</item>
+        <item>@drawable/a37</item>
+        <item>@drawable/a38</item>
+        <item>@drawable/a39</item>
+        <item>@drawable/a40</item>
+        <item>@drawable/a41</item>
+        <item>@drawable/a42</item>
+        <item>@drawable/a43</item>
+        <item>@drawable/a44</item>
+        <item>@drawable/a45</item>
+        <item>@drawable/a46</item>
+    </integer-array>
+    
+    <integer-array name="katatanaImages">
+        <item>@drawable/k1</item>
+        <item>@drawable/k2</item>
+        <item>@drawable/k3</item>
+        <item>@drawable/k4</item>
+        <item>@drawable/k5</item>
+        <item>@drawable/k6</item>
+        <item>@drawable/k7</item>
+        <item>@drawable/k8</item>
+        <item>@drawable/k9</item>
+        <item>@drawable/k10</item>
+        <item>@drawable/k11</item>
+        <item>@drawable/k12</item>
+        <item>@drawable/k13</item>
+        <item>@drawable/k14</item>
+        <item>@drawable/k15</item>
+        <item>@drawable/k16</item>
+        <item>@drawable/k17</item>
+        <item>@drawable/k18</item>
+        <item>@drawable/k19</item>
+        <item>@drawable/k20</item>
+        <item>@drawable/k21</item>
+        <item>@drawable/k22</item>
+        <item>@drawable/k23</item>
+        <item>@drawable/k24</item>
+        <item>@drawable/k25</item>
+        <item>@drawable/k26</item>
+        <item>@drawable/k27</item>
+        <item>@drawable/k28</item>
+        <item>@drawable/k29</item>
+        <item>@drawable/k30</item>
+        <item>@drawable/k31</item>
+        <item>@drawable/k32</item>
+        <item>@drawable/k33</item>
+        <item>@drawable/k34</item>
+        <item>@drawable/k35</item>
+        <item>@drawable/k36</item>
+        <item>@drawable/k37</item>
+        <item>@drawable/k38</item>
+        <item>@drawable/k39</item>
+        <item>@drawable/k40</item>
+        <item>@drawable/k41</item>
+        <item>@drawable/k42</item>
+        <item>@drawable/k43</item>
+        <item>@drawable/k44</item>
+        <item>@drawable/k45</item>
+        <item>@drawable/k46</item>
+    </integer-array>
+    
+    <string-array name="romanji">
+        <item>1. A</item>
+        <item>2. I</item>
+        <item>3. U</item>
+        <item>4. E</item>
+        <item>5. O</item>
+        <item>6. KA</item>
+        <item>7. KI</item>
+        <item>8. KU</item>
+        <item>9. KE</item>
+        <item>10. KO</item>
+        <item>11. SA</item>
+        <item>12. SHI</item>
+        <item>13. SU</item>
+        <item>14. SE</item>
+        <item>15. SO</item>
+        <item>16. TA</item>
+        <item>17. CHI</item>
+        <item>18. TSU</item>
+        <item>19. TE</item>
+        <item>20. TO</item>
+        <item>21. NA</item>
+        <item>22. NI</item>
+        <item>23. NU</item>
+        <item>24. NE</item>
+        <item>25. NO</item>
+        <item>26. HA</item>
+        <item>27. HI</item>
+        <item>28. FU</item>
+        <item>29. HE</item>
+        <item>30. HO</item>
+        <item>31. MA</item>
+        <item>32. MI</item>
+        <item>33. MU</item>
+        <item>34. ME</item>
+        <item>35. MO</item>
+        <item>36. RA</item>
+        <item>37. RI</item>
+        <item>38. RU</item>
+        <item>39. RE</item>
+        <item>40. RO</item>
+        <item>41. YA</item>
+        <item>42. YU</item>
+        <item>43. YO</item>
+        <item>44. WA</item>
+        <item>45. O</item>
+        <item>46. N</item>
+    </string-array>
+
+</resources>
